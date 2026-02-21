@@ -1,0 +1,5 @@
+{
+  "name": "DreamAbode",
+  "description": "AI-powered interior design assistant with room transformation, 3D video generation, and conversational design advice.",
+  "requestFramePermissions": ["microphone"]
+}
